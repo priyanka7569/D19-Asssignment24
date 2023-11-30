@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\ConAppAssignment-24\ConAppAssignment-24\bin\Debug\ConAppAssignment-24.exe.config
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\ConAppAssignment-24\ConAppAssignment-24\bin\Debug\ConAppAssignment-24.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\ConAppAssignment-24\ConAppAssignment-24\bin\Debug\ConAppAssignment-24.pdb
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\ConAppAssignment-24\ConAppAssignment-24\obj\Debug\ConAppAssignment-24.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\ConAppAssignment-24\ConAppAssignment-24\obj\Debug\ConAppAssignment-24.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\ConAppAssignment-24\ConAppAssignment-24\obj\Debug\ConAppAssignment-24.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\ConAppAssignment-24\ConAppAssignment-24\obj\Debug\ConAppAssignment-24.pdb
